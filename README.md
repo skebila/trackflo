@@ -1,6 +1,6 @@
 # 🧠 Trackflo
 
-**Trackflo** is a modern, developer-focused project and team management app inspired by tools like Linear, Notion, and Trello — built to showcase my full-stack skills with clean UI, modular architecture, and scalable design.
+**Trackflo** is a modern, developer-focused project and team management app inspired by tools like Linear, Notion, and Trello — built to showcase my front-end skills with clean UI, modular architecture, and scalable design.
 
 🚀 **Live Demo:** [trackflo.netlify.app](https://trackflo.netlify.app)
 
