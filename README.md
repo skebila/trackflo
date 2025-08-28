@@ -74,7 +74,6 @@ trackflo/
 🧑‍💻 Author
 
 Steven Kebila
-stevenkebila.com • GitHub • LinkedIn
 
 📜 License
 
