@@ -78,13 +78,7 @@ Trackflo uses DiceBear’s open-source API to generate unique and playful avatar
   src={`https://api.dicebear.com/8.x/fun-emoji/svg?seed=username`}
   alt="avatar"
 />
-📍 What's Coming Next?
 
-🔐 User authentication (Supabase or Firebase)
-🧠 Project/task state & drag-and-drop functionality
-🌐 Backend integration (Node.js + PostgreSQL or Firebase)
-📨 Team invites + user roles
-📊 Activity logs & dashboard analytics
 🧑‍💻 Author
 
 Steven Kebila
