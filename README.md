@@ -70,14 +70,6 @@ trackflo/
 ├── tailwind.config.ts   # Tailwind theme config
 ├── vite.config.ts       # Vite config
 └── index.html
-🎨 Avatar API
-
-Trackflo uses DiceBear’s open-source API to generate unique and playful avatars:
-
-<img
-  src={`https://api.dicebear.com/8.x/fun-emoji/svg?seed=username`}
-  alt="avatar"
-/>
 
 🧑‍💻 Author
 
